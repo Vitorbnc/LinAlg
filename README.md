@@ -11,4 +11,4 @@ Matrix inversion, multiplication, subtraction, factorization, transpose, and mor
 LinAlg aims for simplicity, but in the small benchmarks I ran it outperformed Matlab by a wide margin!
 
 ### Known bugs
-The QR factoring needs to be improved for rectangular matrices
+The QR factoring method needs to be improved for rectangular matrices
