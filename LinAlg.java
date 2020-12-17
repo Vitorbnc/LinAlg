@@ -5,6 +5,7 @@ import java.util.Arrays;
 import java.lang.System;
 
 /*
+Autor: Vitor Barbosa
 Implementação baseada nos algoritmos disponíveis em:
 Blackledge, J.: Digital Signal Processing (Second Edition). Horwood Publishing, vol: ISBN: 1-904275-26-5. 2006.
 */
